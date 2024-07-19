@@ -1,0 +1,41 @@
+server:
+  port: 8090
+spring:
+  servlet:
+    multipart:
+      max-file-size: 20MB
+      max-request-size: 1000MB
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/blog
+    username: root
+    password: admin123
+  redis:
+    database: 0
+    host: localhost
+    port: 6379
+    connect-timeout: 3000
+    jedis:
+      pool:
+        max-active: 8
+        min-idle: 0
+        max-wait: 1
+  mail: #这里使用163邮箱，然后分别填上对应的值就好，具体自行搜索
+    host:
+    username:
+    password:
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+blog:
+  login:
+    jwt-expire: 86400 #过期时间
+  user:
+    default:
+      avatar: 666 #默认头像
+    password:
+      iteration: 1024 #密码加密迭代次数
+  media_url: C:/Users/86152/Desktop/工程实践/load #文件存储地址
+  email:
+    from:   #与邮箱的username一样
