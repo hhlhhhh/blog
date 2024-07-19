@@ -16,7 +16,7 @@
 
 项目分为7个模块：公告、评论、文章标签、专栏、友情链接、标签、用户
 
-![image-20240719151134523](.\images\image-20240719151134523.png)
+![image-20240719151134523](https://raw.githubusercontent.com/hhlhhhh/blog/main/images/image-20240719151134523.png)
 
 
 
@@ -30,11 +30,9 @@
 
 前端直接npm i加载依赖就好，然后npm run dev。
 
-
-
 后端：
 
-![Snipaste_2024-07-19_16-07-02](.\images\Snipaste_2024-07-19_16-22-22.png)
+![Snipaste_2024-07-19_16-07-02](https://raw.githubusercontent.com/hhlhhhh/blog/main/images/Snipaste_2024-07-19_16-22-22.png)
 
 这个jks文件是使用keytool生成的，你也可以下载后用keytool生成替换就好。
 
@@ -51,13 +49,13 @@
 
 #### **登录**
 
-![](.\images\Snipaste_2024-07-19_16-05-25.png)
+![](https://raw.githubusercontent.com/hhlhhhh/blog/main/images/Snipaste_2024-07-19_16-05-25.png)
 
 
 
 
 
-![](.\images\Snipaste_2024-07-19_16-05-11.png)
+![](https://raw.githubusercontent.com/hhlhhhh/blog/main/images/Snipaste_2024-07-19_16-05-11.png)
 
 
 
@@ -65,31 +63,31 @@
 
 #### 注册
 
-![Snipaste_2024-07-19_16-07-02](.\images\Snipaste_2024-07-19_16-07-02.png)
+![Snipaste_2024-07-19_16-07-02](https://raw.githubusercontent.com/hhlhhhh/blog/main/images/Snipaste_2024-07-19_16-07-02.png)
 
 
 
 #### 首页
 
-![Snipaste_2024-07-19_16-07-02](.\images\Snipaste_2024-07-19_16-08-18.png)
+![Snipaste_2024-07-19_16-07-02](https://raw.githubusercontent.com/hhlhhhh/blog/main/images/Snipaste_2024-07-19_16-08-18.png)
 
 
 
 #### 公告
 
-![Snipaste_2024-07-19_16-07-02](.\images\Snipaste_2024-07-19_16-09-08.png)
+![Snipaste_2024-07-19_16-07-02](https://raw.githubusercontent.com/hhlhhhh/blog/main/images/Snipaste_2024-07-19_16-09-08.png)
 
 #### 文章详情
 
-![Snipaste_2024-07-19_16-07-02](.\images\Snipaste_2024-07-19_16-09-54.png)
+![Snipaste_2024-07-19_16-07-02](https://raw.githubusercontent.com/hhlhhhh/blog/main/images/Snipaste_2024-07-19_16-09-54.png)
 
 #### 文章评论
 
-![Snipaste_2024-07-19_16-07-02](.\images\Snipaste_2024-07-19_16-11-15.png)
+![Snipaste_2024-07-19_16-07-02](https://raw.githubusercontent.com/hhlhhhh/blog/main/images/Snipaste_2024-07-19_16-11-15.png)
 
 #### 文章搜索
 
-![Snipaste_2024-07-19_16-07-02](.\images\Snipaste_2024-07-19_16-12-02.png)
+![Snipaste_2024-07-19_16-07-02](https://raw.githubusercontent.com/hhlhhhh/blog/main/images/Snipaste_2024-07-19_16-12-02.png)
 
 文章搜索分为全局搜索、标签搜索、专栏内部搜索。具体请自行探索。
 
@@ -97,12 +95,12 @@
 
 #### 个人首页
 
-![image-20240719161702603](.\images\image-20240719161702603.png)
+![image-20240719161702603](https://raw.githubusercontent.com/hhlhhhh/blog/main/images/image-20240719161702603.png)
 
 #### 修改密码
 
-![Snipaste_2024-07-19_16-07-02](.\images\Snipaste_2024-07-19_16-17-52.png)
+![Snipaste_2024-07-19_16-07-02](https://raw.githubusercontent.com/hhlhhhh/blog/main/images/Snipaste_2024-07-19_16-17-52.png)
 
 #### 文章添加
 
-![Snipaste_2024-07-19_16-07-02](.\images\Snipaste_2024-07-19_16-18-37.png)
+![Snipaste_2024-07-19_16-07-02](https://raw.githubusercontent.com/hhlhhhh/blog/main/images/Snipaste_2024-07-19_16-18-37.png)
